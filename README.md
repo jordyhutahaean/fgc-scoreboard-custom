@@ -1,4 +1,5 @@
 Many thanks to FGC Scoreboard https://github.com/WASD-Gaming/fgc-scoreboard , i just happen to edit some stuffs, especially with upcoming 2XKO, we'll need overlay for 2v2 format
+shoutout to https://github.com/tarikfayad 
 Most of the instructions here was taken from FGC Scoreboard.
 
 
